@@ -1,0 +1,26 @@
+{
+  "title": "Chiptune",
+  "study": "ct01",
+  "bpm": 148,
+  "source_audio": "preview/chiptune-simple-synth-preview.mp3",
+  "source_audio_sha256": "280dbdf82d5be7c0252863a4a2036e57e1c65448f111dea5d0b45ab08f8adf21",
+  "source_midi": "midi/ct01-pixel-road/ct01-pixel-road-combined.mid",
+  "source_midi_sha256": "26f5723ad9a3438443fe21b826b803aa9dc6ac010516991a6a2436e97285b016",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "c59d81475414ceb90c819e07c28755598d83b4229bf343441b3faf79ea19b946",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "cc1693c0670aa8b7e65b700ed68959f4e7fa9472308f1a4dfdebe59ed64d0d16",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "af72bd3bd7f04498493dab969e4103c02d638c681a3cd3c4fed7c0aefd184a2e",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
