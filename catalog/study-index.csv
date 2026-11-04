@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ct01,Pixel Road,pack-local equal-tempered pitch collection,C,148,4/4,480,32,61440,midi/ct01-pixel-road/ct01-pixel-road-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ct02,Coin Window,pack-local equal-tempered pitch collection,D#,148,4/4,480,32,61440,midi/ct02-coin-window/ct02-coin-window-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ct03,Clear Loop,pack-local equal-tempered pitch collection,F#,148,4/4,480,32,61440,midi/ct03-clear-loop/ct03-clear-loop-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ct04,Start Return,pack-local equal-tempered pitch collection,C#,148,4/4,480,32,61440,midi/ct04-start-return/ct04-start-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
