@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/chiptune-simple-synth-preview.mp3",
-  "preview_sha256": "280dbdf82d5be7c0252863a4a2036e57e1c65448f111dea5d0b45ab08f8adf21",
+  "preview_sha256": "80235ad8a70d5d589f98922e02fec194a7e66e28f4e9776c1d53521b743a0225",
   "source_midi_path": "midi/ct01-pixel-road/ct01-pixel-road-combined.mid",
-  "source_midi_sha256": "26f5723ad9a3438443fe21b826b803aa9dc6ac010516991a6a2436e97285b016",
+  "source_midi_sha256": "85583148ebfe9ba669b4ea1218b9e09593bef2f7d04438f7072cfff96473eae5",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 51.892
   },
   "measurement": {
-    "sample_peak": 0.167827,
+    "sample_peak": 0.167721,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

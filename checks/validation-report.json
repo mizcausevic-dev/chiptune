@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-04T23:37:40.798956+00:00",
+  "run_time_utc": "2026-11-06T00:05:27.312719+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -20,8 +20,8 @@
     },
     {
       "path": "midi/ct01-pixel-road/ct01-pixel-road-combined.mid",
-      "bytes": 8179,
-      "sha256": "26f5723ad9a3438443fe21b826b803aa9dc6ac010516991a6a2436e97285b016",
+      "bytes": 7920,
+      "sha256": "85583148ebfe9ba669b4ea1218b9e09593bef2f7d04438f7072cfff96473eae5",
       "errors": []
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "path": "midi/ct01-pixel-road/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "efaae6a4bc81c538e1b808cc5563a00ab23ff4905569eeaf24b116c2c73c286d",
+      "bytes": 1373,
+      "sha256": "0c58092973045655d3a7517516e510f11d7de72b0c9ae35bc486857f34653864",
       "errors": []
     },
     {
@@ -62,8 +62,8 @@
     },
     {
       "path": "midi/ct02-coin-window/ct02-coin-window-combined.mid",
-      "bytes": 8180,
-      "sha256": "5ca9711d26566399eea51e7ceca0e9e5209c9bb3e4e3fd2030f644f285b4ec71",
+      "bytes": 7920,
+      "sha256": "54a3564b94b5af3a5b1a119775fa15731a47c4c6675b3183bece7daa534d1575",
       "errors": []
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "path": "midi/ct02-coin-window/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "8c60e9ae770125289c0dd17dbcd2772fda0e74f7cd0ccf6a39ebb23bff43f92d",
+      "bytes": 1373,
+      "sha256": "a266590f682d18b4063557c929773230cb98419ea0cab94fef4d7f5c842988d0",
       "errors": []
     },
     {
@@ -104,8 +104,8 @@
     },
     {
       "path": "midi/ct03-clear-loop/ct03-clear-loop-combined.mid",
-      "bytes": 8179,
-      "sha256": "1f40244570a38fa693b0df62813e8ca54417e0939340bfd8b80823807feefd92",
+      "bytes": 7921,
+      "sha256": "4674711cdf3707cc0a9daf22bb5e4474680acd7d7f180c76b852b562cd662c90",
       "errors": []
     },
     {
@@ -116,8 +116,8 @@
     },
     {
       "path": "midi/ct03-clear-loop/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "d8191d3d8203a3dd0afe23f0d98c39170b478da860c6235ec0020d9d874b2914",
+      "bytes": 1374,
+      "sha256": "2c6d147733b6f8498e0d8056d399135df26ad6656d4df52c249644133f081026",
       "errors": []
     },
     {
@@ -146,8 +146,8 @@
     },
     {
       "path": "midi/ct04-start-return/ct04-start-return-combined.mid",
-      "bytes": 8179,
-      "sha256": "057c3a7d5532fc59efa904269233bea2a368d8580e8715be4dd09e4662d38f9b",
+      "bytes": 7921,
+      "sha256": "2f7c54b92046600fe11377a2c688de923b8e95bd56a4d10c45ed0e5789dd255b",
       "errors": []
     },
     {
@@ -158,8 +158,8 @@
     },
     {
       "path": "midi/ct04-start-return/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "9422ea7f7c8567fde6718d4cf41bb90f607cd481f9917ceed680baaf10d4859e",
+      "bytes": 1374,
+      "sha256": "e818e6faffb2ff3281f7623fb561d6b3b2581518a0fe4f6dbeb7b5606501c892",
       "errors": []
     },
     {
