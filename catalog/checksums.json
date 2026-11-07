@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/chiptune-midi.zip",
-      "bytes": 34189,
-      "sha256": "dae7743323cfccfb29936fe90d2cde42f9611af826efb89fd3aef374a231ea0b"
+      "bytes": 36556,
+      "sha256": "323bf367b5bc2a7bfa2f1a1ae23c9475060c9a60d09e193bf69c6e6e627cd78c"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10182,
-      "sha256": "95b75a420a6ec2915ce31b9f78d0b9f0751aabe6cbd8b494fa5e17b68f4f4284"
+      "bytes": 10372,
+      "sha256": "634e55e8224e0381d32c1941aca5743d2bae91c4466c107c8b128a5439678854"
     },
     {
       "path": "midi/ct01-pixel-road/chord_pulse.mid",
@@ -257,6 +257,11 @@
       "sha256": "1e88a713ff576d96628bbb8ab281d56b703db557194261ff42bd503f16eb4344"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 779,
       "sha256": "c0474532c289c1693eaef09412e5f6f0660cfc1f3240fab98849c3eedf61b039"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3343,
-      "sha256": "3c3d857eba464dba553a1ee0ea8fafb035705e6e9ccb3d911f699c7223a411f1"
+      "bytes": 3458,
+      "sha256": "e5647581761bcea9365b24004b0bb607f527e1f65b1fd8a17d40bf84d5831e22"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
